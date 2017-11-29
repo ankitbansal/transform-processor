@@ -121,14 +121,14 @@
 
 	<distributionManagement>
 		<repository>
-			<id>ACCS Spring Cloud Data Flow Server_repo</id>
-			<name>ACCS Spring Cloud Data Flow Server Maven Repository</name>
-			<url>https://developer.us2.oraclecloud.com/profile/developer48597-ocloud100/s/developer48597-ocloud100_accs-spring-cloud-data-flow-server_21830/maven/</url>
+			<id>ACCS SCDF_repo</id>
+			<name>ACCS SCDF Maven Repository</name>
+			<url>https://developer.us2.oraclecloud.com/profile/developer48597-ocloud100/s/developer48597-ocloud100_accs-scdf_21925/maven/</url>
 		</repository>
 		<snapshotRepository>
-			<id>ACCS Spring Cloud Data Flow Server_repo</id>
-			<name>ACCS Spring Cloud Data Flow ServerMaven Repository</name>
-			<url>https://developer.us2.oraclecloud.com/profile/developer48597-ocloud100/s/developer48597-ocloud100_accs-spring-cloud-data-flow-server_21830/maven/</url>
+			<id>ACCS SCDF_repo</id>
+			<name>ACCS SCDFMaven Repository</name>
+			<url>https://developer.us2.oraclecloud.com/profile/developer48597-ocloud100/s/developer48597-ocloud100_accs-scdf_21925/maven/</url>
 		</snapshotRepository>
 	</distributionManagement>
 

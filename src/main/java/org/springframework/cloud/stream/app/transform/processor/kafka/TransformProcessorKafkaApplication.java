@@ -22,10 +22,11 @@ import org.springframework.context.annotation.Import;
 
 
 @SpringBootApplication
-@Import(org.springframework.cloud.stream.app.transform.processor.TransformProcessorConfiguration.class)
+@Import(TransformProcessorConfiguration.class)
 public class TransformProcessorKafkaApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(TransformProcessorKafkaApplication.class, args);
 	}
 }
